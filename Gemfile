@@ -1,2 +1,3 @@
 source "https://rubygems.org/"
-gem install dotenv
+gem "dotenv"
+#bundle install
